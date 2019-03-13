@@ -15,4 +15,3 @@ class Dog(Animal):
 pluto = Dog("Pluto", "white")
 print(pluto.name)
 pluto.Bark()
-
