@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>54ac7d99-9f59-469e-9a70-f7956afb8f30</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Inheritance.py</StartupFile>
+    <StartupFile>encapsulation.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Classes.py" />
+    <Compile Include="encapsulation.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Inheritance.py">
       <SubType>Code</SubType>
     </Compile>
