@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>54ac7d99-9f59-469e-9a70-f7956afb8f30</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Inheritance.py</StartupFile>
+    <StartupFile>map and filter.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Inheritance.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="map and filter.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
